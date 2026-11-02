@@ -1,0 +1,78 @@
+[
+ {
+  "ticker": "GTN.A",
+  "yahoo": "GTN-A",
+  "date": "2026-10-29",
+  "entry": 6.74,
+  "shares": 4700,
+  "dollars": 30000,
+  "kind": "V3",
+  "hold_days": 5,
+  "cover_on": "2026-11-05",
+  "status": "covered",
+  "closed": "2026-11-02",
+  "exit": 9.979999542236328
+ },
+ {
+  "ticker": "PROF",
+  "yahoo": "PROF",
+  "date": "2026-10-30",
+  "entry": 6.47,
+  "shares": 386,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-02",
+  "status": "covered",
+  "closed": "2026-11-02",
+  "exit": 6.789999961853027
+ },
+ {
+  "ticker": "LCU",
+  "yahoo": "LCU",
+  "date": "2026-11-02",
+  "entry": 4.79,
+  "shares": 521,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-03",
+  "status": "open"
+ },
+ {
+  "ticker": "QXL",
+  "yahoo": "QXL",
+  "date": "2026-11-02",
+  "entry": 4.05,
+  "shares": 617,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-03",
+  "status": "open"
+ },
+ {
+  "ticker": "INDP",
+  "yahoo": "INDP",
+  "date": "2026-11-02",
+  "entry": 3.455,
+  "shares": 723,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-03",
+  "status": "open"
+ },
+ {
+  "ticker": "SNWV",
+  "yahoo": "SNWV",
+  "date": "2026-11-02",
+  "entry": 5.8,
+  "shares": 431,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-03",
+  "status": "open"
+ }
+]
