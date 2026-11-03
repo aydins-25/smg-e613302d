@@ -37,7 +37,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-03",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-03",
+  "exit": 4.559999942779541
  },
  {
   "ticker": "QXL",
@@ -49,7 +51,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-03",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-03",
+  "exit": 3.990000009536743
  },
  {
   "ticker": "INDP",
@@ -61,7 +65,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-03",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-03",
+  "exit": 3.265000104904175
  },
  {
   "ticker": "SNWV",
@@ -73,6 +79,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-03",
+  "status": "covered",
+  "closed": "2026-11-03",
+  "exit": 5.96999979019165
+ },
+ {
+  "ticker": "JLHL",
+  "yahoo": "JLHL",
+  "date": "2026-11-03",
+  "entry": 6.745,
+  "shares": 370,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-04",
+  "status": "open"
+ },
+ {
+  "ticker": "BCAX",
+  "yahoo": "BCAX",
+  "date": "2026-11-03",
+  "entry": 9.055,
+  "shares": 276,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-04",
+  "status": "open"
+ },
+ {
+  "ticker": "ARRY",
+  "yahoo": "ARRY",
+  "date": "2026-11-03",
+  "entry": 4.585,
+  "shares": 545,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-04",
+  "status": "open"
+ },
+ {
+  "ticker": "CNL",
+  "yahoo": "CNL",
+  "date": "2026-11-03",
+  "entry": 11.42,
+  "shares": 218,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-04",
   "status": "open"
  }
 ]
