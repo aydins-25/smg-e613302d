@@ -149,7 +149,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-05",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-05",
+  "exit": 3.319999933242798
  },
  {
   "ticker": "MOBI",
@@ -161,7 +163,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-05",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-05",
+  "exit": 11.109999656677246
  },
  {
   "ticker": "JBLU",
@@ -173,7 +177,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-05",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-05",
+  "exit": 3.490000009536743
  },
  {
   "ticker": "STRZ",
@@ -185,6 +191,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-05",
+  "status": "covered",
+  "closed": "2026-11-05",
+  "exit": 24.459999084472656
+ },
+ {
+  "ticker": "CPIX",
+  "yahoo": "CPIX",
+  "date": "2026-11-05",
+  "entry": 4.91,
+  "shares": 509,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-06",
+  "status": "open"
+ },
+ {
+  "ticker": "RML",
+  "yahoo": "RML",
+  "date": "2026-11-05",
+  "entry": 4.14,
+  "shares": 603,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-06",
+  "status": "open"
+ },
+ {
+  "ticker": "LFTO",
+  "yahoo": "LFTO",
+  "date": "2026-11-05",
+  "entry": 16.85,
+  "shares": 148,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-06",
+  "status": "open"
+ },
+ {
+  "ticker": "CUVL",
+  "yahoo": "CUVL",
+  "date": "2026-11-05",
+  "entry": 5.26,
+  "shares": 475,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-06",
   "status": "open"
  }
 ]
