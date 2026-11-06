@@ -205,7 +205,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-06",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-06",
+  "exit": 5.320000171661377
  },
  {
   "ticker": "RML",
@@ -217,7 +219,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-06",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-06",
+  "exit": 3.8259999752044678
  },
  {
   "ticker": "LFTO",
@@ -229,7 +233,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-06",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-06",
+  "exit": 18.399999618530273
  },
  {
   "ticker": "CUVL",
@@ -241,6 +247,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-06",
+  "status": "covered",
+  "closed": "2026-11-06",
+  "exit": 5.122000217437744
+ },
+ {
+  "ticker": "ARQQ",
+  "yahoo": "ARQQ",
+  "date": "2026-11-06",
+  "entry": 15.7,
+  "shares": 159,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-09",
+  "status": "open"
+ },
+ {
+  "ticker": "MBLY",
+  "yahoo": "MBLY",
+  "date": "2026-11-06",
+  "entry": 5.655,
+  "shares": 442,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-09",
+  "status": "open"
+ },
+ {
+  "ticker": "PPTA",
+  "yahoo": "PPTA",
+  "date": "2026-11-06",
+  "entry": 19.59,
+  "shares": 127,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-09",
+  "status": "open"
+ },
+ {
+  "ticker": "OPTX",
+  "yahoo": "OPTX",
+  "date": "2026-11-06",
+  "entry": 4.78,
+  "shares": 523,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-09",
   "status": "open"
  }
 ]
