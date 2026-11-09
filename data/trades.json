@@ -261,7 +261,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-09",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-09",
+  "exit": 16.90999984741211
  },
  {
   "ticker": "MBLY",
@@ -273,7 +275,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-09",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-09",
+  "exit": 5.925000190734863
  },
  {
   "ticker": "PPTA",
@@ -285,7 +289,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-09",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-09",
+  "exit": 21.329999923706055
  },
  {
   "ticker": "OPTX",
@@ -297,6 +303,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-09",
+  "status": "covered",
+  "closed": "2026-11-09",
+  "exit": 5.329999923706055
+ },
+ {
+  "ticker": "MFI",
+  "yahoo": "MFI",
+  "date": "2026-11-09",
+  "entry": 5.63,
+  "shares": 444,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-10",
+  "status": "open"
+ },
+ {
+  "ticker": "CLNN",
+  "yahoo": "CLNN",
+  "date": "2026-11-09",
+  "entry": 4.4175,
+  "shares": 565,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-10",
+  "status": "open"
+ },
+ {
+  "ticker": "USGO",
+  "yahoo": "USGO",
+  "date": "2026-11-09",
+  "entry": 5.8,
+  "shares": 431,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-10",
+  "status": "open"
+ },
+ {
+  "ticker": "ANRO",
+  "yahoo": "ANRO",
+  "date": "2026-11-09",
+  "entry": 27.85,
+  "shares": 89,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-10",
   "status": "open"
  }
 ]
