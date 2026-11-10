@@ -317,7 +317,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-10",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-10",
+  "exit": 5.699999809265137
  },
  {
   "ticker": "CLNN",
@@ -329,7 +331,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-10",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-10",
+  "exit": 4.420000076293945
  },
  {
   "ticker": "USGO",
@@ -341,7 +345,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-10",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-10",
+  "exit": 5.065000057220459
  },
  {
   "ticker": "ANRO",
@@ -353,6 +359,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-10",
+  "status": "covered",
+  "closed": "2026-11-10",
+  "exit": 27.934999465942383
+ },
+ {
+  "ticker": "NTHI",
+  "yahoo": "NTHI",
+  "date": "2026-11-10",
+  "entry": 4.26,
+  "shares": 586,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-11",
+  "status": "open"
+ },
+ {
+  "ticker": "ATGL",
+  "yahoo": "ATGL",
+  "date": "2026-11-10",
+  "entry": 9.59,
+  "shares": 260,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-11",
+  "status": "open"
+ },
+ {
+  "ticker": "SPRY",
+  "yahoo": "SPRY",
+  "date": "2026-11-10",
+  "entry": 3.67,
+  "shares": 681,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-11",
+  "status": "open"
+ },
+ {
+  "ticker": "INSE",
+  "yahoo": "INSE",
+  "date": "2026-11-10",
+  "entry": 4.53,
+  "shares": 551,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-11",
   "status": "open"
  }
 ]
