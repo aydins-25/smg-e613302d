@@ -373,7 +373,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-11",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-11",
+  "exit": 4.511300086975098
  },
  {
   "ticker": "ATGL",
@@ -385,7 +387,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-11",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-11",
+  "exit": 9.300000190734863
  },
  {
   "ticker": "SPRY",
@@ -397,7 +401,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-11",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-11",
+  "exit": 3.9149999618530273
  },
  {
   "ticker": "INSE",
@@ -409,6 +415,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-11",
+  "status": "covered",
+  "closed": "2026-11-11",
+  "exit": 4.599999904632568
+ },
+ {
+  "ticker": "OESX",
+  "yahoo": "OESX",
+  "date": "2026-11-11",
+  "entry": 13.47,
+  "shares": 185,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-12",
+  "status": "open"
+ },
+ {
+  "ticker": "YARW",
+  "yahoo": "YARW",
+  "date": "2026-11-11",
+  "entry": 17.7,
+  "shares": 141,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-12",
+  "status": "open"
+ },
+ {
+  "ticker": "OPTX",
+  "yahoo": "OPTX",
+  "date": "2026-11-11",
+  "entry": 6.605,
+  "shares": 378,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-12",
+  "status": "open"
+ },
+ {
+  "ticker": "AVTX",
+  "yahoo": "AVTX",
+  "date": "2026-11-11",
+  "entry": 8.2,
+  "shares": 304,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-12",
   "status": "open"
  }
 ]
