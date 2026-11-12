@@ -429,7 +429,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-12",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-12",
+  "exit": 13.149999618530273
  },
  {
   "ticker": "YARW",
@@ -441,7 +443,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-12",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-12",
+  "exit": 19.200000762939453
  },
  {
   "ticker": "OPTX",
@@ -453,7 +457,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-12",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-12",
+  "exit": 6.855000019073486
  },
  {
   "ticker": "AVTX",
@@ -465,6 +471,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-12",
+  "status": "covered",
+  "closed": "2026-11-12",
+  "exit": 7.610000133514404
+ },
+ {
+  "ticker": "MFI",
+  "yahoo": "MFI",
+  "date": "2026-11-12",
+  "entry": 7.2,
+  "shares": 347,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-13",
+  "status": "open"
+ },
+ {
+  "ticker": "ZOOZ",
+  "yahoo": "ZOOZ",
+  "date": "2026-11-12",
+  "entry": 6.0,
+  "shares": 416,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-13",
+  "status": "open"
+ },
+ {
+  "ticker": "SENEB",
+  "yahoo": "SENEB",
+  "date": "2026-11-12",
+  "entry": 172.8,
+  "shares": 14,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-13",
+  "status": "open"
+ },
+ {
+  "ticker": "TVGN",
+  "yahoo": "TVGN",
+  "date": "2026-11-12",
+  "entry": 6.55,
+  "shares": 381,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-13",
   "status": "open"
  }
 ]
