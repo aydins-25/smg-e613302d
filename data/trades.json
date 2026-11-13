@@ -485,7 +485,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-13",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-13",
+  "exit": 7.5
  },
  {
   "ticker": "ZOOZ",
@@ -497,7 +499,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-13",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-13",
+  "exit": 5.659999847412109
  },
  {
   "ticker": "SENEB",
@@ -509,7 +513,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-13",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-13",
+  "exit": null
  },
  {
   "ticker": "TVGN",
@@ -521,6 +527,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-13",
+  "status": "covered",
+  "closed": "2026-11-13",
+  "exit": 5.30620002746582
+ },
+ {
+  "ticker": "TREO",
+  "yahoo": "TREO",
+  "date": "2026-11-13",
+  "entry": 3.75,
+  "shares": 666,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-16",
+  "status": "open"
+ },
+ {
+  "ticker": "BRBI",
+  "yahoo": "BRBI",
+  "date": "2026-11-13",
+  "entry": 8.1,
+  "shares": 308,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-16",
+  "status": "open"
+ },
+ {
+  "ticker": "ALNY",
+  "yahoo": "ALNY",
+  "date": "2026-11-13",
+  "entry": 164.978,
+  "shares": 15,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-16",
+  "status": "open"
+ },
+ {
+  "ticker": "STVN",
+  "yahoo": "STVN",
+  "date": "2026-11-13",
+  "entry": 15.585,
+  "shares": 160,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-16",
   "status": "open"
  }
 ]
