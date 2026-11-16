@@ -541,7 +541,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-16",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-16",
+  "exit": 3.2100000381469727
  },
  {
   "ticker": "BRBI",
@@ -553,7 +555,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-16",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-16",
+  "exit": 7.150000095367432
  },
  {
   "ticker": "ALNY",
@@ -565,7 +569,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-16",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-16",
+  "exit": 158.77999877929688
  },
  {
   "ticker": "STVN",
@@ -577,6 +583,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-16",
+  "status": "covered",
+  "closed": "2026-11-16",
+  "exit": 15.569999694824219
+ },
+ {
+  "ticker": "BGIN",
+  "yahoo": "BGIN",
+  "date": "2026-11-16",
+  "entry": 5.41,
+  "shares": 462,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-17",
+  "status": "open"
+ },
+ {
+  "ticker": "URGN",
+  "yahoo": "URGN",
+  "date": "2026-11-16",
+  "entry": 28.35,
+  "shares": 88,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-17",
+  "status": "open"
+ },
+ {
+  "ticker": "MFI",
+  "yahoo": "MFI",
+  "date": "2026-11-16",
+  "entry": 8.2002,
+  "shares": 304,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-17",
+  "status": "open"
+ },
+ {
+  "ticker": "GYRE",
+  "yahoo": "GYRE",
+  "date": "2026-11-16",
+  "entry": 4.58,
+  "shares": 545,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-17",
   "status": "open"
  }
 ]
