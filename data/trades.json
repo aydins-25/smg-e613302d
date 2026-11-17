@@ -597,7 +597,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-17",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-17",
+  "exit": 5.224999904632568
  },
  {
   "ticker": "URGN",
@@ -609,7 +611,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-17",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-17",
+  "exit": 28.68000030517578
  },
  {
   "ticker": "MFI",
@@ -621,7 +625,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-17",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-17",
+  "exit": 8.899999618530273
  },
  {
   "ticker": "GYRE",
@@ -633,6 +639,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-17",
+  "status": "covered",
+  "closed": "2026-11-17",
+  "exit": 4.510000228881836
+ },
+ {
+  "ticker": "VTSI",
+  "yahoo": "VTSI",
+  "date": "2026-11-17",
+  "entry": 4.62,
+  "shares": 541,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-18",
+  "status": "open"
+ },
+ {
+  "ticker": "SUPX",
+  "yahoo": "SUPX",
+  "date": "2026-11-17",
+  "entry": 4.945,
+  "shares": 505,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-18",
+  "status": "open"
+ },
+ {
+  "ticker": "SENEB",
+  "yahoo": "SENEB",
+  "date": "2026-11-17",
+  "entry": 37.8,
+  "shares": 66,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-18",
+  "status": "open"
+ },
+ {
+  "ticker": "BLSM",
+  "yahoo": "BLSM",
+  "date": "2026-11-17",
+  "entry": 14.86,
+  "shares": 168,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-18",
   "status": "open"
  }
 ]
