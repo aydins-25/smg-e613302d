@@ -653,7 +653,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-18",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-18",
+  "exit": 4.329999923706055
  },
  {
   "ticker": "SUPX",
@@ -665,7 +667,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-18",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-18",
+  "exit": 4.630000114440918
  },
  {
   "ticker": "SENEB",
@@ -677,7 +681,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-18",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-18",
+  "exit": 35.9900016784668
  },
  {
   "ticker": "BLSM",
@@ -689,6 +695,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-18",
+  "status": "covered",
+  "closed": "2026-11-18",
+  "exit": 14.699999809265137
+ },
+ {
+  "ticker": "ANTX",
+  "yahoo": "ANTX",
+  "date": "2026-11-18",
+  "entry": 5.0,
+  "shares": 500,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-19",
+  "status": "open"
+ },
+ {
+  "ticker": "VITL",
+  "yahoo": "VITL",
+  "date": "2026-11-18",
+  "entry": 9.55,
+  "shares": 261,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-19",
+  "status": "open"
+ },
+ {
+  "ticker": "QVCG",
+  "yahoo": "QVCG",
+  "date": "2026-11-18",
+  "entry": 9.995,
+  "shares": 250,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-19",
+  "status": "open"
+ },
+ {
+  "ticker": "RPD",
+  "yahoo": "RPD",
+  "date": "2026-11-18",
+  "entry": 15.175,
+  "shares": 164,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-19",
   "status": "open"
  }
 ]
