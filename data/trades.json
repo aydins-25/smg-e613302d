@@ -709,7 +709,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-19",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-19",
+  "exit": 5.235000133514404
  },
  {
   "ticker": "VITL",
@@ -721,7 +723,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-19",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-19",
+  "exit": 9.739999771118164
  },
  {
   "ticker": "QVCG",
@@ -733,7 +737,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-19",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-19",
+  "exit": 9.835000038146973
  },
  {
   "ticker": "RPD",
@@ -745,6 +751,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-19",
+  "status": "covered",
+  "closed": "2026-11-19",
+  "exit": 15.199999809265137
+ },
+ {
+  "ticker": "CRMD",
+  "yahoo": "CRMD",
+  "date": "2026-11-19",
+  "entry": 5.025,
+  "shares": 497,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-20",
+  "status": "open"
+ },
+ {
+  "ticker": "SVRA",
+  "yahoo": "SVRA",
+  "date": "2026-11-19",
+  "entry": 5.165,
+  "shares": 484,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-20",
+  "status": "open"
+ },
+ {
+  "ticker": "ANTX",
+  "yahoo": "ANTX",
+  "date": "2026-11-19",
+  "entry": 5.235,
+  "shares": 477,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-20",
+  "status": "open"
+ },
+ {
+  "ticker": "AMBA",
+  "yahoo": "AMBA",
+  "date": "2026-11-19",
+  "entry": 59.42,
+  "shares": 42,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-20",
   "status": "open"
  }
 ]
