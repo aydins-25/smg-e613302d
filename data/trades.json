@@ -765,7 +765,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-20",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-20",
+  "exit": 5.269999980926514
  },
  {
   "ticker": "SVRA",
@@ -777,7 +779,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-20",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-20",
+  "exit": 4.386499881744385
  },
  {
   "ticker": "ANTX",
@@ -789,7 +793,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-20",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-20",
+  "exit": 5.119999885559082
  },
  {
   "ticker": "AMBA",
@@ -801,6 +807,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-20",
+  "status": "covered",
+  "closed": "2026-11-20",
+  "exit": 52.73500061035156
+ },
+ {
+  "ticker": "BRVE",
+  "yahoo": "BRVE",
+  "date": "2026-11-20",
+  "entry": 20.315,
+  "shares": 123,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-23",
+  "status": "open"
+ },
+ {
+  "ticker": "MRDN",
+  "yahoo": "MRDN",
+  "date": "2026-11-20",
+  "entry": 3.96,
+  "shares": 631,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-23",
+  "status": "open"
+ },
+ {
+  "ticker": "ATRA",
+  "yahoo": "ATRA",
+  "date": "2026-11-20",
+  "entry": 6.67,
+  "shares": 374,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-23",
+  "status": "open"
+ },
+ {
+  "ticker": "BGS",
+  "yahoo": "BGS",
+  "date": "2026-11-20",
+  "entry": 3.58,
+  "shares": 698,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-23",
   "status": "open"
  }
 ]
