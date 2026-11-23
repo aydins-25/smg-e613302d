@@ -821,7 +821,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-23",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-23",
+  "exit": 23.799999237060547
  },
  {
   "ticker": "MRDN",
@@ -833,7 +835,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-23",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-23",
+  "exit": 3.872299909591675
  },
  {
   "ticker": "ATRA",
@@ -845,7 +849,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-23",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-23",
+  "exit": 7.639999866485596
  },
  {
   "ticker": "BGS",
@@ -857,6 +863,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-23",
+  "status": "covered",
+  "closed": "2026-11-23",
+  "exit": 3.6050000190734863
+ },
+ {
+  "ticker": "PRE",
+  "yahoo": "PRE",
+  "date": "2026-11-23",
+  "entry": 9.81,
+  "shares": 254,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-24",
+  "status": "open"
+ },
+ {
+  "ticker": "NUAI",
+  "yahoo": "NUAI",
+  "date": "2026-11-23",
+  "entry": 4.305,
+  "shares": 580,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-24",
+  "status": "open"
+ },
+ {
+  "ticker": "WYFI",
+  "yahoo": "WYFI",
+  "date": "2026-11-23",
+  "entry": 7.34,
+  "shares": 340,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-24",
+  "status": "open"
+ },
+ {
+  "ticker": "TMS",
+  "yahoo": "TMS",
+  "date": "2026-11-23",
+  "entry": 4.37,
+  "shares": 572,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-24",
   "status": "open"
  }
 ]
