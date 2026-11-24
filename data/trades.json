@@ -877,7 +877,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-24",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-24",
+  "exit": 10.305000305175781
  },
  {
   "ticker": "NUAI",
@@ -889,7 +891,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-24",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-24",
+  "exit": 4.238999843597412
  },
  {
   "ticker": "WYFI",
@@ -901,7 +905,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-24",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-24",
+  "exit": 6.639999866485596
  },
  {
   "ticker": "TMS",
@@ -913,6 +919,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-24",
+  "status": "covered",
+  "closed": "2026-11-24",
+  "exit": 4.320000171661377
+ },
+ {
+  "ticker": "CUE",
+  "yahoo": "CUE",
+  "date": "2026-11-24",
+  "entry": 6.995,
+  "shares": 357,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-25",
+  "status": "open"
+ },
+ {
+  "ticker": "SIND",
+  "yahoo": "SIND",
+  "date": "2026-11-24",
+  "entry": 8.46,
+  "shares": 295,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-25",
+  "status": "open"
+ },
+ {
+  "ticker": "PRLD",
+  "yahoo": "PRLD",
+  "date": "2026-11-24",
+  "entry": 4.6,
+  "shares": 543,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-25",
+  "status": "open"
+ },
+ {
+  "ticker": "CAMP",
+  "yahoo": "CAMP",
+  "date": "2026-11-24",
+  "entry": 4.39,
+  "shares": 569,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-25",
   "status": "open"
  }
 ]
