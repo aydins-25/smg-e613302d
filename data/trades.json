@@ -933,7 +933,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-25",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-25",
+  "exit": 8.204999923706055
  },
  {
   "ticker": "SIND",
@@ -945,7 +947,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-25",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-25",
+  "exit": 10.100000381469727
  },
  {
   "ticker": "PRLD",
@@ -957,7 +961,9 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-25",
-  "status": "open"
+  "status": "covered",
+  "closed": "2026-11-25",
+  "exit": 4.570000171661377
  },
  {
   "ticker": "CAMP",
@@ -969,6 +975,56 @@
   "kind": "backup",
   "hold_days": 1,
   "cover_on": "2026-11-25",
+  "status": "covered",
+  "closed": "2026-11-25",
+  "exit": 4.0
+ },
+ {
+  "ticker": "BNAI",
+  "yahoo": "BNAI",
+  "date": "2026-11-25",
+  "entry": 8.225,
+  "shares": 1215,
+  "dollars": 10000,
+  "kind": "V3",
+  "hold_days": 5,
+  "cover_on": "2026-12-02",
+  "status": "open"
+ },
+ {
+  "ticker": "JLHL",
+  "yahoo": "JLHL",
+  "date": "2026-11-25",
+  "entry": 4.93,
+  "shares": 507,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-26",
+  "status": "open"
+ },
+ {
+  "ticker": "NANO",
+  "yahoo": "NANO",
+  "date": "2026-11-25",
+  "entry": 4.04,
+  "shares": 618,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-26",
+  "status": "open"
+ },
+ {
+  "ticker": "NFE",
+  "yahoo": "NFE",
+  "date": "2026-11-25",
+  "entry": 5.0781,
+  "shares": 492,
+  "dollars": 2500,
+  "kind": "backup",
+  "hold_days": 1,
+  "cover_on": "2026-11-26",
   "status": "open"
  }
 ]
